@@ -1,4 +1,4 @@
-package com.example.taskmanager;
+package main.java.com.example.taskmanager;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
